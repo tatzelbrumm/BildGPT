@@ -1,0 +1,9 @@
+Width: 720
+Height: 576
+Color space: YCbCr (BT.601)
+Chroma subsampling: 4:2:2
+Pixel packing: YCbCr, interleaved
+Bytes per pixel (avg): 2
+Stride: 720 * 2 = 1440 bytes per row
+Total size: 720 * 576 * 2 bytes
+

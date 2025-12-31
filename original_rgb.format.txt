@@ -1,0 +1,7 @@
+Width: 2048
+Height: 2048
+Pixel format: RGB24
+Byte order: R, G, B
+Stride: 2048 * 3 = 6144 bytes per row
+Total size: 2048 * 2048 * 3 bytes
+
