@@ -2,8 +2,8 @@ from PIL import Image
 import math
 
 data = open("binaryfile.raw","rb").read()
-width = 285
-height = 24
+width = 855
+height = 8
 pages = math.ceil(height/8)
 assert len(data) == width * pages
 
